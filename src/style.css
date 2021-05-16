@@ -1,10 +1,10 @@
 .navbarColor {
   background: linear-gradient(
       90deg,
-      rgb(107, 25, 10) 10%,
-      rgb(15, 15, 52) 25%,
-      rgb(11, 3, 3) 62%,
-      rgba(22, 210, 247, 0.671) 100%
+      rgb(109, 42, 30) 10%,
+      rgb(32, 32, 73) 25%,
+      rgb(15, 3, 3) 62%,
+      rgba(208, 227, 231, 0.671) 100%
     )
     no-repeat;
 }
@@ -20,7 +20,7 @@ a.li-list:hover {
 }
 
 .home {
-  /* background: url("../../images/test1.jpg") no-repeat center center; */
+  background: url("./img/pexels-valiphotos-589842.jpg") no-repeat center center;
   background-size: cover;
   height: 100vh;
   width: 100%;
@@ -31,7 +31,7 @@ a.li-list:hover {
 .header-name {
   font-size: 6em;
   /* color: #14959a; */
-  text-shadow: 5px 0px #14959a;
+  text-shadow: 5px 0px #061414;
 }
 
 .header-description {
@@ -101,7 +101,7 @@ a.li-list:hover {
 }
 
 #portfolio {
-  /* background: url("../../images/test1.jpg") no-repeat center center fixed; */
+  background: url("./img/pexels-michael-morse-1481349.jpg") no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -114,8 +114,8 @@ a.li-list:hover {
 }
 
 #aboutme {
-  background-color: #ffdee9;
-  background-image: linear-gradient(238deg, #e1d3d7 20%, #769fbf 80%);
+  background-color: #68233a;
+  background-image: linear-gradient(238deg, #a55f73 20%, #1c3d57 80%);
 }
 .header-aboutme {
   font-weight: bold;
@@ -148,6 +148,7 @@ a.li-list:hover {
   text-align: justify;
   font-size: 1.3em;
   color: black;
+  
 }
 
 .line {
