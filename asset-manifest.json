@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.febcee83.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e5298ad3.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e5298ad3.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.308bf066.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.308bf066.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/react-portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f569d14b.chunk.js": "/react-portfolio/static/js/2.f569d14b.chunk.js",
+    "static/js/2.f569d14b.chunk.js.map": "/react-portfolio/static/js/2.f569d14b.chunk.js.map",
+    "static/js/3.c6a087f1.chunk.js": "/react-portfolio/static/js/3.c6a087f1.chunk.js",
+    "static/js/3.c6a087f1.chunk.js.map": "/react-portfolio/static/js/3.c6a087f1.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/react-portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.febcee83.chunk.css.map": "/react-portfolio/static/css/main.febcee83.chunk.css.map",
+    "static/js/2.f569d14b.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.f569d14b.chunk.js.LICENSE.txt",
+    "static/media/Project1.7183e8c4.png": "/react-portfolio/static/media/Project1.7183e8c4.png",
+    "static/media/budgetTracker.9db54d4f.png": "/react-portfolio/static/media/budgetTracker.9db54d4f.png",
+    "static/media/burgerLogger.dd22be52.png": "/react-portfolio/static/media/burgerLogger.dd22be52.png",
+    "static/media/employeeDirectory.d1bd7a06.png": "/react-portfolio/static/media/employeeDirectory.d1bd7a06.png",
+    "static/media/style.css": "/react-portfolio/static/media/pexels-valiphotos-589842.c4016656.jpg",
+    "static/media/profile.69d1c5c6.jpg": "/react-portfolio/static/media/profile.69d1c5c6.jpg",
+    "static/media/project2.fb4613ce.png": "/react-portfolio/static/media/project2.fb4613ce.png",
+    "static/media/workScheduler.a08f5ea5.png": "/react-portfolio/static/media/workScheduler.a08f5ea5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.308bf066.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f569d14b.chunk.js",
+    "static/css/main.febcee83.chunk.css",
+    "static/js/main.e5298ad3.chunk.js"
+  ]
+}
