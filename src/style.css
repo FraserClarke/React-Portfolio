@@ -1,12 +1,16 @@
 .navbarColor {
   background: linear-gradient(
       90deg,
-      rgb(109, 42, 30) 10%,
+      /* rgb(109, 42, 30) 10%, */
       rgb(32, 32, 73) 25%,
       rgb(15, 3, 3) 62%,
       rgba(208, 227, 231, 0.671) 100%
     )
     no-repeat;
+}
+
+.profilePictureAbout {
+  border-radius:50% !important;
 }
 
 .li-list {
